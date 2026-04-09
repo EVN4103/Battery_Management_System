@@ -21,8 +21,9 @@ The system supports I2C and UART communication for external monitoring and integ
 - Communication: I2C / UART
 
 ## Repository Structure
-- /hardware → Schematic, PCB layout, Gerbers, BOM
+- /hardware → hardware_setup / hardware_design
 - /firmware → ATmega328P firmware
 
 ## PCB Preview
-![PCB jpg](https://github.com/user-attachments/assets/97c3f057-3a2c-4c88-9d31-7b0c43713e8b)
+![IMG20260409131609 jpg](https://github.com/user-attachments/assets/d8338aa2-4b15-4891-9a8d-e277f929e6a5)
+
